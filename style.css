@@ -1,0 +1,23 @@
+body
+{
+    background-color: lightskyblue;
+}
+
+.footer
+{
+    position: fixed;
+    color: whitesmoke;
+    text-align: center;
+    width: 100%;
+    background-color: grey;
+    bottom: 0px;
+    line-height: 2;
+
+
+}
+
+.sidehead
+{
+    font-size: 18px;
+}
+
